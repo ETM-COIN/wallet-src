@@ -1,0 +1,9 @@
+Building EliteCoin
+
+See doc/readme-qt.rst for instructions on building EliteCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of EliteCoin.
+
+See doc/build-*.txt for instructions on building elitecoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of EliteCoin.
